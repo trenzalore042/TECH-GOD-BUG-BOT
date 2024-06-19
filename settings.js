@@ -10,29 +10,29 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownernomer = "2348168855791"
+global.ownername = "🐛 TRENZALORE"
 global.ytname = "YT: Tech-God"
-global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.socialm = "GitHub: TRENZALORE042"
+global.location = "NIGERIA,LAGOS"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '2348168855791'  //creator number
+global.ownername = '🐛TRENZALORE' //owner name
+global.botname = 'CYBER_X_3.0v' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'Tech-God\n\nContact: 2348168855791'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "Youtube Tech God."
+global.themeemoji = '💀'
+global.wm = "Youtube SILENT Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://chat.whatsapp.com/EgDKNXhVwGx1cJYC0xJH6P'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [',']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -40,7 +40,7 @@ global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
-global.anti92 = false //auto block +92 
+global.anti234 = false //auto block +234 
 global.autoswview = true //auto view status/story
 
 //menu type 
@@ -48,7 +48,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v1'
 
 //text bug
 global.xbugtex = {
@@ -59,7 +59,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by Tech god or premium user only',
+    prem: 'This feature can be used by SILENT or premium user only',
     admin: 'This feature can be used by Tech god or admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by Tech god or owner only',
